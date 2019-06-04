@@ -1,0 +1,86 @@
+﻿body {
+    background-color: #F1F0F0;
+    line-height: 1.25rem;
+    color: #494949;
+    font-family: Avenir;
+    font-size: 90%;
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    width: 70%;
+    text-align: left;
+    background-color: #FFFFFF;
+}
+
+    #container h2 {
+        text-decoration: underline;
+    }
+
+#personal h1 {
+    font-size: 3rem;
+    font-family: Avenir;
+    font-weight: 300;
+    text-align: center;
+}
+
+#contactDetails {
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+    #contactDetails p {
+        margin-bottom: -1rem;
+    }
+
+#content {
+    margin: 20px;
+}
+
+#bio {
+    border: 1px solid #B9B9B9;
+    padding-left: 1rem;
+}
+
+#middleContainer {
+    margin-top: 1.2rem;
+}
+
+#education {
+    float: left;
+    width: 225px;
+    height: 600px;
+    padding: 0.5rem;
+    border: 1px solid #B9B9B9;
+}
+
+#employment {
+    float: right;
+    width: 675px;
+}
+
+
+#hobbiesandinterests {
+    clear: both;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+}
+
+#bottomContainer {
+    border-top: 2px solid #B9B9B9;
+    padding-top: 2rem;
+}
+
+#references {
+    float: left;
+    width: 225px;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #B9B9B9;
+}
+
+#portfolio {
+    float: right;
+    width: 675px;
+}

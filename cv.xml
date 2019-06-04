@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "cv2.xsl" ?>
+<cv>
+    <!--Personal Section-->
+    <personal>
+        <name>Thomas Bishop</name>
+        <address>Flat 5D London House, 85 London Road, High Wycombe, HP11 1BN</address>
+        <email>tombishop95@gmail.com</email>
+        <phone>07578 098055</phone>
+        <bio>I am an enthusiastic professional individual who is seeking a new challenge during my time at university. I am a hard-working individual who strives to achieve the best in all areas, and I am always eager to learn new skills.</bio>
+    </personal>
+    <!--Key Skills-->
+    <skills>
+        <header>Key Skills</header>
+        <skill>Proficient User of Adobe Programs, predominantly Photoshop &amp; Illustrator</skill>
+        <skill>Advanced understanding of both HTML &amp; CSS</skill>
+        <skill>Intermediate understanding of JavaScript &amp; React</skill>
+        <skill>Creatively driven and logically minded</skill>
+        <skill>Dedicated, motivated and always on task</skill>
+        <skill>Confident verbal and written communicator </skill>
+        <skill>Passion for working in fast-paced environments</skill>
+        <skill>A strong desire to learn and grow within a company</skill>
+        <skill>Ability to consistently meet targets</skill>
+    </skills>
+    <!--Employment Section-->
+    <employment>
+        <role>
+            <location>Nespresso</location>
+            <title>Coffee Specialist</title>
+            <from>November 2018</from>
+            <to>Present</to>
+            <description>Meeting individual and store KPI’s</description>
+            <description>Accepting &amp; handling store deliveries </description>
+            <description>Opening &amp; closing of the store</description>
+            <description>Maintaining store cleanliness &amp; visual standards</description>
+        </role>
+        <role>
+            <location>Nujo Skin</location>
+            <title>Consultancy Role</title>
+            <from>June 2016</from>
+            <to>January 2019</to>
+            <description>Edit the core Shopify Theme to meet the companies design specifications.</description>
+            <description>Designed imagery across the site.</description>
+            <description>Assisted in managing the social media channels</description>
+            <description>Assisted in running social media campaigns</description>
+        </role>
+        <role>
+            <location>Building Supplies Online</location>
+            <title>UX Manager</title>
+            <from>December 2017</from>
+            <to>September 2018</to>
+            <description>Launched the websites of 2 sub-brands on a Shopify Platform</description>
+            <description>Managed a team of 3 people in the upload and merchandising of new product lines</description>
+            <description>First POC with the companies Magento Agency for all website changes &amp; produced wireframes where necessary</description>
+            <description>Provided training &amp; support for new starters</description>
+        </role>
+        <role>
+            <location>Building Supplies Online</location>
+            <title>E-commerce Assisstant</title>
+            <from>January 2016</from>
+            <to>December 2017</to>
+            <description>Assisted in the upload and merchandising of all new product lines.</description>
+            <description>Designed &amp; Issued Marketing Emails via MailChimp.</description>
+            <description>Created custom web pages using HTML, CSS &amp; Java</description>
+        </role>
+    </employment>
+    <!--Education Section-->
+    <education>
+        <result>
+            <place>Buckinghamshire New University</place>
+            <from>September 2019</from>
+            <to>Present</to>
+            <type>BSC</type>
+            <subject>Computing &amp; Web Development</subject>
+            <grade>TBC</grade>
+        </result>
+        <result>
+            <place>Chipping Norton School</place>
+            <from>September 2012</from>
+            <to>June 2015</to>
+            <type>A-Level's'</type>
+            <subject>Geography</subject>
+            <grade>B</grade>
+            <subject>Statistics</subject>
+            <grade>C</grade>
+            <subject>Biology</subject>
+            <grade>D</grade>
+        </result>
+        <result>
+            <place>The Warriner School</place>
+            <from>September 2007</from>
+            <to>June 2012</to>
+            <type>GCSE's'</type>
+            <subject>10 including Maths &amp; English</subject>
+            <grade>A-C</grade>
+        </result>
+        <online>
+            <award>Codeacademy Pro Intensive Built Front-End Web Apps from Scratch Certification</award>
+            <award>Codeacademy Pro Intensive Built Websites from Scratch Certification</award>
+        </online>
+    </education>
+    <!--Hobbies Section-->
+    <hobbies>
+        <hobby>As a keen athlete, I spend a lot of my free time in the gym and took part in the 2017 London Marathon. I’m also an avid Formula 1 fan and have travelled the world following the sport.</hobby>
+    </hobbies>
+    <!--References Section-->
+    <references>
+        <reference>
+            <name>Ian Baldwin</name>
+            <phone>01295 235536</phone>
+            <email>ian@bso.co.uk</email>
+            <relationship>Previous Employer</relationship>
+        </reference>
+        <reference>
+            <name>Craig Baldwin</name>
+            <phone>01295 235536</phone>
+            <email>craig@bso.co.uk</email>
+            <relationship>Previous Employer</relationship>
+        </reference>
+    </references>
+    <!--Portfolio  Section-->
+    <portfolio>
+        <example>
+            <name>Nujo Skin</name>
+            <url>www.nujoskin.com</url>
+            <overview>Nujo Skin is a UK based cosmetics company that specialises in providing 100% natural products that help reduce fine lines and wrinkles.</overview>
+        </example>
+        <example>
+            <name>Jammming</name>
+            <url>www.jammingapp.surge.shn</url>
+            <overview>Jammming is an online web application that allows you to search over 4 million songs. Enabling you to create the playlist you want and save it to your Spotify account at the click of a button.</overview>
+        </example>
+    </portfolio>
+</cv>
